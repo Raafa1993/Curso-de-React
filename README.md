@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="React.js" title="#Rocketseat" src=".img/react-js.jpg"/>
+    <img alt="React.js" title="#Rocketseat" src="./img/react-js.JPG"/>
 </h1>
 
 <h4 align="center"> 
